@@ -221,3 +221,6 @@ Water Jug Challenge API is running!
 - Unexpected exceptions
 - System failures
 
+--
+**Deployed link**: https://0b9ba3e66a8c.ngrok-free.app/
+
