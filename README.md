@@ -139,7 +139,7 @@ Water Jug Challenge API is running!
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd WaterJugChallenge
+   cd chicksgold-backend-test
    ```
 
 2. **Restore Dependencies**
