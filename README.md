@@ -138,7 +138,7 @@ Water Jug Challenge API is running!
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Astravexx/chicksgold-backend-test.git
    cd chicksgold-backend-test
    ```
 
