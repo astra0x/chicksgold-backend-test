@@ -118,16 +118,6 @@ Solves the water jug problem with the given parameters.
 - X and Y capacities must be greater than 0
 - Z amount wanted must be greater than 0
 
-### 2. Health Check
-**GET** `/health`
-
-Returns the health status of the API.
-
-#### Response
-```
-Water Jug Challenge API is running!
-```
-
 ## Setup and Installation
 
 ### Prerequisites
@@ -138,7 +128,7 @@ Water Jug Challenge API is running!
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Astravexx/chicksgold-backend-test.git
+   git clone https://github.com/astra0x/chicksgold-backend-test.git
    cd chicksgold-backend-test
    ```
 
@@ -220,7 +210,4 @@ Water Jug Challenge API is running!
 ### System Errors (500 Internal Server Error)
 - Unexpected exceptions
 - System failures
-
---
-**Deployed link**: https://0b9ba3e66a8c.ngrok-free.app/
 
