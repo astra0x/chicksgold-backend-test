@@ -128,8 +128,8 @@ Solves the water jug problem with the given parameters.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/astra0x/chicksgold-backend-test.git
-   cd chicksgold-backend-test
+   git clone https://github.com/astra0x/Game-Marketplace-backend.git
+   cd Game-Marketplace-backend
    ```
 
 2. **Restore Dependencies**
